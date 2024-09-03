@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Portfolio-website/static/css/main.1eba23b5.css",
+    "main.js": "/Portfolio-website/static/js/main.331eab12.js",
+    "static/media/Java.png": "/Portfolio-website/static/media/Java.3900817eee1c85f99f3f.png",
+    "static/media/Coding.gif": "/Portfolio-website/static/media/Coding.923fbdf05e0f84186bcc.gif",
+    "static/media/MongoDB.png": "/Portfolio-website/static/media/MongoDB.b2eb91d0fd4e872a7604.png",
+    "static/media/sckit-learn.png": "/Portfolio-website/static/media/sckit-learn.4d9f884c33a2081cd556.png",
+    "static/media/bg2.png": "/Portfolio-website/static/media/bg2.a1ca704fad6da438b8d7.png",
+    "static/media/tailwind.png": "/Portfolio-website/static/media/tailwind.1db250d69480108e7d3d.png",
+    "static/media/bg3.png": "/Portfolio-website/static/media/bg3.5f8e93cfd91b752852b8.png",
+    "static/media/bg.webp": "/Portfolio-website/static/media/bg.c78c2f66219663c585fe.webp",
+    "static/media/JS.png": "/Portfolio-website/static/media/JS.d8111ad7c250ac9a506f.png",
+    "static/media/OpenCV.png": "/Portfolio-website/static/media/OpenCV.380571af93f616f00c98.png",
+    "static/media/PHP.png": "/Portfolio-website/static/media/PHP.d3442bc8de272420ae69.png",
+    "static/media/C++.png": "/Portfolio-website/static/media/C++.af795b099791ed3f1502.png",
+    "static/media/FER.jpg": "/Portfolio-website/static/media/FER.e7ef33f6587b3fe88c30.jpg",
+    "static/media/html.png": "/Portfolio-website/static/media/html.5158eea91267b8ec717e.png",
+    "static/media/Tensorflow.png": "/Portfolio-website/static/media/Tensorflow.4617e0092a2f5623dd63.png",
+    "static/media/css.png": "/Portfolio-website/static/media/css.541ebbaf41622c2af165.png",
+    "static/media/python.png": "/Portfolio-website/static/media/python.52d7bb207f9868b90e39.png",
+    "static/media/Reactimg2.png": "/Portfolio-website/static/media/Reactimg2.82c05605d7d51dc09aba.png",
+    "static/media/SHASHANKDHAUNI.pdf": "/Portfolio-website/static/media/SHASHANKDHAUNI.61e5a735ca4f66b5c8db.pdf",
+    "static/media/NodeJs.png": "/Portfolio-website/static/media/NodeJs.8c3dbb0291c79c71e89d.png",
+    "static/media/MySQL.png": "/Portfolio-website/static/media/MySQL.7fa7b834e752064dea0b.png",
+    "static/media/keras.png": "/Portfolio-website/static/media/keras.54f0aec00e053e4b319d.png",
+    "static/media/CodeEditor.jpg": "/Portfolio-website/static/media/CodeEditor.6ffd7594e12d22cab4e2.jpg",
+    "static/media/ai-voice-assistant.jpg": "/Portfolio-website/static/media/ai-voice-assistant.d2bdaca5c56b27f5c248.jpg",
+    "static/media/reversed.jpg": "/Portfolio-website/static/media/reversed.508f9d3221298fd0d2a4.jpg",
+    "static/media/ToDo-List.jpg": "/Portfolio-website/static/media/ToDo-List.0b6497862fe2a9c79cf9.jpg",
+    "static/media/MNIST1.png": "/Portfolio-website/static/media/MNIST1.74b61662420f727dc41e.png",
+    "index.html": "/Portfolio-website/index.html",
+    "main.1eba23b5.css.map": "/Portfolio-website/static/css/main.1eba23b5.css.map",
+    "main.331eab12.js.map": "/Portfolio-website/static/js/main.331eab12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eba23b5.css",
+    "static/js/main.331eab12.js"
+  ]
+}
